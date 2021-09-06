@@ -1,5 +1,4 @@
-# ocbc_hackit_readme
-How to use:
+# How to use:
 
 •	Home Page
 
@@ -138,8 +137,7 @@ Notes:
   o	Pay Button
   An icon with “Payment Successful” will show up and users will be navigated to the View All Movies Screen.
  
-
-User research
+#User Research
 
 •	The purpose of the Home Page displaying “Login” and “Sign Up” button is more user friendly towards first time users for easier navigation. User studies conducted shows that most apps usually show them the login page and they have difficulties finding the sign up button.
 
