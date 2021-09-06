@@ -3,143 +3,144 @@ How to use:
 
 •	Home Page
 
-o	Login Button
-This button will navigate to the login page
+  o	Login Button
+  This button will navigate to the login page
 
-o	Sign Up Button
-This button will navigate to the sign up page
+  o	Sign Up Button
+  This button will navigate to the sign up page
 
 •	Login Page
 
-o	Back Button
-This button will navigate to the home page
+  o	Back Button
+  This button will navigate to the home page
 
-o	“Forget Password” Button
-This button will navigate to the Reset Password page
+  o	“Forget Password” Button
+  This button will navigate to the Reset Password page
 
-o	“or Sign up for an account” Button
-This button will navigate to the Sign up page
+  o	“or Sign up for an account” Button
+  This button will navigate to the Sign up page
 
-o	Simulation
-1.	Tap on the grey box under Email
-2.	Tap on the grey box under Password. An error message will be displayed for invalid email format
-3.	Tap on the grey box under Email
-4.	Tap on the Login button 
-5.	Navigate to the View All Movie 
+  o	Simulation
+    1.	Tap on the grey box under Email
+    2.	Tap on the grey box under Password. An error message will be displayed for invalid email format
+    3.	Tap on the grey box under Email
+    4.	Tap on the Login button 
+    5.	Navigate to the View All Movie 
 
 •	Reset Password Page
 
-o	Back Button
-This button will navigate to the home page
+  o	Back Button
+  This button will navigate to the home page
 
-o	Simulation
-1.	Tap on the grey box under Email. An error message will be displayed.
-2.	Tap on the grey box under Email again
-3.	Tap on the Send button 
-4.	An alert notification will be displayed. Tap on Ok.
-5.	Navigate to the Home Page
+  o	Simulation
+    1.	Tap on the grey box under Email. An error message will be displayed.
+    2.	Tap on the grey box under Email again
+    3.	Tap on the Send button 
+    4.	An alert notification will be displayed. Tap on Ok.
+    5.	Navigate to the Home Page
 
 •	Sign Up Page
 
-o	Back Button
-This button will navigate to the home page
+  o	Back Button
+  This button will navigate to the home page
 
-o	Simulation
-1.	Tap on anywhere in the grey bounding box, the entries for First Name, Last Name and Phone Number will be automatically filled.
-2.	Tap on Next Button
-3.	Tap on grey box under Email and an error message and icon will be displayed.
-4.	Tap on anywhere in the grey bounding box, the entries for Email, Password and Confirm Password will automatically be filled.
-5.	Tap on Sign Up button.
-6.	An alert notification will be displayed. Tap on OK.
-7.	Navigate to the Home Page
+  o	Simulation
+    1.	Tap on anywhere in the grey bounding box, the entries for First Name, Last Name and Phone Number will be automatically filled.
+    2.	Tap on Next Button
+    3.	Tap on grey box under Email and an error message and icon will be displayed.
+    4.	Tap on anywhere in the grey bounding box, the entries for Email, Password and Confirm Password will automatically be filled.
+    5.	Tap on Sign Up button.
+    6.	An alert notification will be displayed. Tap on OK.
+    7.	Navigate to the Home Page
 
 •	View All Movie Page
 
 Notes:
-	Movies under “Currently Showing” is a list that can be scrolled horizontally
-	Movies under “Popular” is a list that can be scrolled vertically
-	Only one movie “Sang Chi And The Legend Of The Ten Rings” is interactable.
-	Only “Your Favorites” and “User Settings” button are interactable in the drawer
+  	Movies under “Currently Showing” is a list that can be scrolled horizontally
+  	Movies under “Popular” is a list that can be scrolled vertically
+  	Only one movie “Sang Chi And The Legend Of The Ten Rings” is interactable.
+  	Only “Your Favorites” and “User Settings” button are interactable in the drawer
 
-o	Back Button
-This button will navigate to the home page
+  o	Back Button
+  This button will navigate to the home page
 
-o	Menu Button
-This button will open up a drawer.
+  o	Menu Button
+  This button will open up a drawer.
 
 •	Your Favorites Page
 
-Notes:
-	Only one movie currently in Your Favorites list.
-	The list should be able to scroll vertically.
-	Movies that users have added to Favorites should appear in the list
+  Notes:
+  	Only one movie currently in Your Favorites list.
+  	The list should be able to scroll vertically.
+  	Movies that users have added to Favorites should appear in the list
 
-o	Back Button
-This button will navigate to the View All Movies page
+  o	Back Button
+  This button will navigate to the View All Movies page
 
 •	User Settings Page
 
-o	Back Button
-This button will navigate to the View All Movies page
+  o	Back Button
+  This button will navigate to the View All Movies page
 
-o	Arrow Button in “Edit Profile”
-This button will navigate to Edit Profile page
+  o	Arrow Button in “Edit Profile”
+  This button will navigate to Edit Profile page
 
-o	Sign Out Button
-This button will navigate to Home page
+  o	Sign Out Button
+  This button will navigate to Home page
 
 •	Edit Profile Page
 
-Notes:
-	User should be able to change the entries under their profile by tapping on the grey boxes.
+  Notes:
+  	User should be able to change the entries under their profile by tapping on the grey boxes.
 
-o	Back Button
-This button will navigate to the View All Movies page
+  o	Back Button
+  This button will navigate to the View All Movies page
 
 
 
 
 •	Movie Details Page
 
-Notes:
-	Users should be able to add/remove the movie by tapping on the “Love” icon on the top right
-	User should be able to view available time slots when tapping on buttons with different dates
-	Users should be able to select the time slots.
-	The list of dates should be able to scroll horizontally and the list of timeslots should be able to scroll vertically
+  Notes:
+  	Users should be able to add/remove the movie by tapping on the “Love” icon on the top right
+  	User should be able to view available time slots when tapping on buttons with different dates
+  	Users should be able to select the time slots.
+  	The list of dates should be able to scroll horizontally and the list of timeslots should be able to scroll vertically
 
-o	Back Button
-This button will navigate to the View All Movies page
+  o	Back Button
+  This button will navigate to the View All Movies page
 
-o	Next Button
-This button will navigate to the Select Seats page
+  o	Next Button
+  This button will navigate to the Select Seats page
 
 
 •	Select Seats Page
 
-o	Back Button
-This button will navigate to the Movie Details page
+  o	Back Button
+  This button will navigate to the Movie Details page
 
-o	‘+’ Button beside “Legend”
-This button will open up the list of legends and users can press on ‘-‘ button to close it.
+  o	‘+’ Button beside “Legend”
+  This button will open up the list of legends and users can press on ‘-‘ button to close it.
 
-o	Next Button
-This button will navigate to the Transaction Details page
+  o	Next Button
+  This button will navigate to the Transaction Details page
 
-•	Transaction Details Page
-o	Back Button
-This button will navigate to the Select Seats page
+  •	Transaction Details Page
+  o	Back Button
+  This button will navigate to the Select Seats page
 
-o	“Edit” Icon Button together with movie related details
-This button will navigate to the Movie Details page
+  o	“Edit” Icon Button together with movie related details
+  This button will navigate to the Movie Details page
 
-o	“Edit” Icon Button together with personal information related details
-This button will navigate to the Edit Profile page
+  o	“Edit” Icon Button together with personal information related details
+  This button will navigate to the Edit Profile page
 
-o	Pay Button
-An icon with “Payment Successful” will show up and users will be navigated to the View All Movies Screen.
+  o	Pay Button
+  An icon with “Payment Successful” will show up and users will be navigated to the View All Movies Screen.
  
 
 User research
+
 •	The purpose of the Home Page displaying “Login” and “Sign Up” button is more user friendly towards first time users for easier navigation. User studies conducted shows that most apps usually show them the login page and they have difficulties finding the sign up button.
 
 •	The purpose of the fancy ‘Welcome’ sign or anything fancy can draw first time user’s attention in using the app.
